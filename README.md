@@ -7,7 +7,7 @@ public class Main {
 	public static void main(String[] args) {
 		setup();
 		
-		System.out.println("Welcome");
+		System.out.println("Welcome to Finding Nemo (Dolarama Edition)");
 		lookAtRoom(true);		
 		
 		while(isPlaying) {
